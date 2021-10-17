@@ -1,6 +1,6 @@
 # igrf_visual
 地球磁场可视化
-磁场计算模型参考[ppigrf](https://github.com/klaundal/ppigrf)；可视化参考[blog](https://blog.plotly.com/post/171585173862/how-to-create-2d-and-3d-interactive-weather-maps);IGRF最新模型参考[paper](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-020-01254-7)
+磁场计算模型参考[ppigrf](https://github.com/klaundal/ppigrf)；可视化参考[blog](https://blog.plotly.com/post/171585173862/how-to-create-2d-and-3d-interactive-weather-maps)；IGRF最新模型参考[paper](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-020-01254-7)
 ## Installation
 
 1. Clone and enter this repository:
